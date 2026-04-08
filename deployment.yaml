@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: web-container
-        image: YOUR_DOCKER_USERNAME/k8s-site:latest
+        image: dimonddev/k8s-site:latest
         ports:
         - containerPort: 80
 ---

@@ -6,3 +6,7 @@ This repo uses GitHub Actions for automated builds and deployments.
 **Pipeline time:** ~22s end-to-end
 
 **Tech:** GitHub Actions, Docker, Kubernetes, YAML
+
+📸 Preview
+![Dashboard Screenshot](./images/preview.png)
+> screenshot to `images/preview.png`
